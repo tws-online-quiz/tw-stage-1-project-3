@@ -5,3 +5,8 @@
 1. 打地鼠小游戏
 2. 3D Gallery Pro
 
+推荐资料：
+
+[MDN DOM概述](https://developer.mozilla.org/zh-CN/docs/Web/API/Document_Object_Model/Introduction#DOM_interfaces)
+
+不熟悉的同学，可能需要看很多资料🤪
