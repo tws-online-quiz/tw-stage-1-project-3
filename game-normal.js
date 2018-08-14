@@ -20,8 +20,6 @@ window.onload = function () {
     function showBtnAnimation() {
         event.preventDefault();
 
-        startBtn.classList.remove('animate');
-
         startBtn.classList.add('animate');
         // 按钮动画延时，按钮动画结束后发生的事：换为正常状态（class中的animate去掉），开始按钮消失
         setTimeout(() => {
